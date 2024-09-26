@@ -1,2 +1,3 @@
-# mathematics_for_data_analytics
-Mathematics for Data Analytics
+# Mathematics_for_data_analytics
+* One variable calculus: differentiation
+* to-be-cintinued
