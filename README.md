@@ -1,3 +1,3 @@
 # Mathematics for data analytics
-* [One variable calculus: derivative](https://nbviewer.org/github/juhanurmonen/mathematics_for_data_analytics/blob/main/one_variable_differentiation_calculus.ipynb)
+* [Single variable calculus](https://nbviewer.org/github/juhanurmonen/mathematics_for_science/blob/main/one_variable_calculus.ipynb)
 * to-be-continued
